@@ -1,0 +1,1 @@
+CẦN PYTHON 3.10.11 ĐỂ CHẠY, CẦN CÀI THÊM C++. MÃ NGUỒN MỞ CỦA TÁC GIẢ
