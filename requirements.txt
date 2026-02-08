@@ -1,0 +1,8 @@
+opencv-python
+PyQt6
+paddlepaddle
+paddleocr
+numpy==1.26.4
+pyinstaller
+shapely
+pyclipper
